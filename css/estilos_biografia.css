@@ -17,6 +17,7 @@
     margin: 0 auto;
     text-align: center;
     color: #f090bd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
@@ -143,7 +144,7 @@ section article h2{
 p {
     margin: 1.7rem;
     font-size: 1.1rem;
-
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 footer {
@@ -184,6 +185,7 @@ footer p:nth-of-type(2) {
     width: 100%;
     border-collapse: collapse;
     margin-top: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #personal-info th, #personal-info td {
