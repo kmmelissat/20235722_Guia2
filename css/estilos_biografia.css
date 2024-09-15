@@ -188,7 +188,7 @@ footer p:nth-of-type(2) {
 
 #personal-info th, #personal-info td {
     padding: 0.75rem;
-    border: 1px solid #ddd;
+    border: 1px solid #fef5f9;
 }
 
 #personal-info th {
@@ -198,10 +198,10 @@ footer p:nth-of-type(2) {
 }
 
 #personal-info td {
-    background-color: #f9f9f9;
+    background-color: #fde3f32b;
 }
 
 #personal-info tr:nth-child(even) td {
-    background-color: #f1f1f1;
+    background-color: #fff0f6;
 }
 
